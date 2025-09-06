@@ -1,1 +1,1 @@
-# .github
+![MITHRA Hero](mithra-hero.png)
