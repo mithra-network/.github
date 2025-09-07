@@ -19,5 +19,5 @@ Not in one of those roles? No problem! If you're curious, interested, or just wa
 Together, we can shape how risk is understood, assessed, and communicated. Feel free to reach out to us:
 
 - 💼 [LinkedIn](https://www.linkedin.com/company/mithranet)
-- 🐦 [Bluesky: @mithranet.bsky.social](https://bsky.app/profile/mithranet.bsky.social)
-- 📧 Email: [info@mithranet.org](mailto:info@mithranet.org)
+- 🐦 [Bluesky](https://bsky.app/profile/mithranet.bsky.social)
+- 📧 [Email](mailto:info@mithranet.org)
