@@ -1,1 +1,1 @@
-![MITHRA Hero](mithra-hero.png)
+![MITHRA Banner](https://github.com/mithranet/.github/blob/main/profile/mithra-banner.png)
