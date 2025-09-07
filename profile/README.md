@@ -18,6 +18,6 @@ Not in one of those roles? No problem! If you're curious, interested, or just wa
 
 Together, we can shape how risk is understood, assessed, and communicated. Feel free to reach out to us:
 
-- 💼 [LinkedIn](https://www.linkedin.com/company/mithranet)
-- 🐦 [Bluesky](https://bsky.app/profile/mithranet.bsky.social)
-- 📧 [Email](mailto:info@mithranet.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mithranet-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/mithranet)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@mithranet.bsky.social-1DA1F2?logo=bluesky&logoColor=white)](https://bsky.app/profile/mithranet.bsky.social)
+[![Email](https://img.shields.io/badge/Email-info@mithranet.org-darkgreen?logo=gmail&logoColor=white)](mailto:info@mithranet.org)
