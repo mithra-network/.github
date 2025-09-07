@@ -16,4 +16,8 @@ Our goal is to bring together people who care about risk assessment, whether you
 
 Not in one of those roles? No problem! If you're curious, interested, or just want to learn, you're welcome too. This is a space for open collaboration and shared learning.
 
-Together, we can shape how risk is understood, assessed, and communicated.
+Together, we can shape how risk is understood, assessed, and communicated. Feel free to reach out to us:
+
+- 💼 [LinkedIn](https://www.linkedin.com/company/mithranet)
+- 🐦 [Bluesky: @mithranet.bsky.social](https://bsky.app/profile/mithranet.bsky.social)
+- 📧 Email: [info@mithranet.org](mailto:info@mithranet.org)
