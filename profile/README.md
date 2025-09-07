@@ -10,7 +10,7 @@ We're building this community together - and you're invited!
 
 Our goal is to bring together people who care about risk assessment, whether you're:
 
-- 🧪 **Practitioners** - conducting real-world risk assessments
+- 🧪 **Practitioners & professionals** - conducting real-world risk assessments
 - 🛠️ **Researchers & developers** - creating semi-automated tools and methods
 - 🏛️ **Policy makers & regulators** - applying assessments for compliance and governance
 
